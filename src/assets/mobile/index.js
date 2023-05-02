@@ -1,0 +1,9 @@
+export { default as mobileCone } from "./cone.jpg";
+export { default as mobileGraphicDesign } from "./graphic-design.jpg";
+export { default as mobileHeader } from "./header.jpg";
+export { default as mobileMilkBottles } from "./milkbottles.jpg";
+export { default as mobileOrange } from "./orange.jpg";
+export { default as mobilePhotography } from "./photography.jpg";
+export { default as mobileStandOut } from "./stand-out.jpg";
+export { default as mobileSugarCubes } from "./sugar-cubes.jpg";
+export { default as mobileTransform } from "./transform.jpg";
